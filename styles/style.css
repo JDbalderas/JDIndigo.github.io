@@ -84,7 +84,7 @@ footer a {
 }
 
 .Home {
-    background-image: url("/images/urinal.png");
+    background-image: url("./images/urinal.png");
     height: 50em;
     background-position: center;
     background-repeat: no-repeat;
